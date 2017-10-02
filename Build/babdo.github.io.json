@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "babdo.github.io.data.unityweb",
+"asmCodeUrl": "babdo.github.io.asm.code.unityweb",
+"asmMemoryUrl": "babdo.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "babdo.github.io.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
