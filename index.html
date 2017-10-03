@@ -24,7 +24,11 @@
         </div>
     </div>
     <script>
-          SendMessage('Cube', 'TestFunction');
+        function testWebGL() {
+            var newGameInstance = gameInstance;
+            newGameInstance.SendMessage('Cube', 'Test');
+
+        }
 
     </script>
 </body>
